@@ -82,4 +82,4 @@ yarn.lock
 *.lock
 
 # Foundry
-lib/forge-std/
+lib/
