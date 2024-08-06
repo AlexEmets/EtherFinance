@@ -1,0 +1,85 @@
+# Rust
+
+# Cargo
+/Cargo.lock
+/Cargo.toml
+/target/
+
+# Rust binaries
+*.rs.bk
+
+# Node.js dependencies (React)
+
+# Node modules
+/node_modules/
+
+# Build output
+/build/
+/dist/
+
+# React build artifacts
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Local environment files
+*.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swo
+
+# NPM and Yarn
+package-lock.json
+yarn.lock
+
+# Temporary files
+*.tmp
+*.temp
+
+# MacOS
+*.DS_Store
+
+# Windows
+*.log
+*.tmp
+
+# IntelliJ IDEA
+*.iml
+
+# Foundry
+
+# Foundry artifacts
+/artifacts/
+
+# Foundry cache
+/cache/
+
+# Foundry lockfile
+/foundry.lock
+
+# Forge configuration
+/foundry.toml
+
+# Deployment files
+/deployments/
+
+# Misc
+*.json
+*.lock
+
+# Foundry
+lib/forge-std/
