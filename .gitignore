@@ -83,3 +83,5 @@ yarn.lock
 
 # Foundry
 lib/
+
+wallet_data
